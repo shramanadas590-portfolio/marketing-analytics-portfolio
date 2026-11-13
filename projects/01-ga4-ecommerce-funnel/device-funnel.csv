@@ -1,0 +1,4 @@
+device,view_sessions,cart_sessions,checkout_sessions,purchase_sessions,view_to_purchase_pct,checkout_to_purchase_pct
+desktop,44819,8303,2975,1567,3.5,52.67
+mobile,30501,5773,2101,1150,3.77,54.74
+tablet,1700,304,111,61,3.59,54.95
