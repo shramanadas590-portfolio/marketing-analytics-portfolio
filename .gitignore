@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+customer_booking.csv
